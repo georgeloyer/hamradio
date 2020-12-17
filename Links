@@ -1,0 +1,21 @@
+Tutorial on how to set up RTL-SDR on RPi to do SSTV:
+http://survey.constantcontact.com/survey/a07ehgvbmcukirti5ft/start?TEST_ONLY_RESPONSES_NOT_SAVED=t 
+
+PiGate is an Emergency Email hub that uses Winlink for sending messages
+http://www.pigate.net/
+
+and Winlink site
+https://www.winlink.org/content/pigate_20_raspberry_pi_released
+
+RTL_fm is software for RPi that provides RTL-SDR support for that platform:
+https://www.rtl-sdr.com/tag/rtl_fm/
+
+DL!GKK page for setting up Raspberry Pi for Ham Radio, lots of software links and references.
+https://dl1gkk.com/setup-raspberry-pi-for-ham-radio/
+
+Build an Amateur Radio APRS RX Only IGate Using a Raspberry Pi and an RTL-SDR Dongle in Less Than Half an Hour
+https://www.instructables.com/Build-an-Amateur-Radio-APRS-RX-Only-IGate-Using-a-/
+
+Updated guide to setting up an APRS RX only iGate using a Raspberry Pi, RTL-SDR dongle and a pre-built image
+https://qso365.co.uk/2018/04/updated-guide-to-setting-up-an-aprs-rx-only-igate-using-a-raspberry-pi-rtl-sdr-dongle-and-a-pre-built-image/
+
